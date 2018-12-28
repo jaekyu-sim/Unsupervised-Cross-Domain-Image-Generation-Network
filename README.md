@@ -1,5 +1,5 @@
-# Unrolled_GAN
-Unrolled_GAN.
+# Unsupervised Cross Domain Image Generation
+Unsupervised Cross Domain Image Generation.
 
 output is here.
 
